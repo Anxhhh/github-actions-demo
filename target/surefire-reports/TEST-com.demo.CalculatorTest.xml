@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk@21/21.0.11/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/anshmatlotia/github-actions-demo/github-actions-demo/target/surefire/surefirebooter-20260717164745355_3.jar /Users/anshmatlotia/github-actions-demo/github-actions-demo/target/surefire 2026-07-17T16-47-45_314-jvmRun1 surefire-20260717164745355_1tmp surefire_0-20260717164745355_2tmp"/>
+    <property name="sun.java.command" value="/Users/anshmatlotia/github-actions-demo/github-actions-demo/target/surefire/surefirebooter-20260717165056424_3.jar /Users/anshmatlotia/github-actions-demo/github-actions-demo/target/surefire 2026-07-17T16-50-56_384-jvmRun1 surefire-20260717165056424_1tmp surefire_0-20260717165056424_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/anshmatlotia/github-actions-demo/github-actions-demo/target/test-classes:/Users/anshmatlotia/github-actions-demo/github-actions-demo/target/classes:/Users/anshmatlotia/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.2/junit-jupiter-5.10.2.jar:/Users/anshmatlotia/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar:/Users/anshmatlotia/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/anshmatlotia/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar:/Users/anshmatlotia/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/anshmatlotia/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.2/junit-jupiter-params-5.10.2.jar:/Users/anshmatlotia/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar:/Users/anshmatlotia/.m2/repository/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/anshmatlotia/github-actions-demo/github-actions-demo/target/surefire/surefirebooter-20260717164745355_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/anshmatlotia/github-actions-demo/github-actions-demo/target/surefire/surefirebooter-20260717165056424_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="21.0.11"/>
